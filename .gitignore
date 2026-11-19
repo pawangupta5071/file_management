@@ -49,9 +49,8 @@ logs/
 # Local databases and data
 *.db
 *.sqlite3
-
-# Alembic
-# Keep alembic.ini and migration scripts tracked.
+.services/
+dump.rdb
 
 # Temporary files
 *.tmp
